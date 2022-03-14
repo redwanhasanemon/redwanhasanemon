@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/emon98474450" target="blank"><img src="https://img.shields.io/twitter/follow/emon98474450?logo=twitter&style=for-the-badge" alt="emon98474450" /></a> </p>
 
-- 🔭 I’m currently working on **BD-VC-Plugin.js**
+- 🔭 I’m currently working on **Discord Bot development**
 
 - 📫 How to reach me **redwanhasanemon@gmail.com**
 
